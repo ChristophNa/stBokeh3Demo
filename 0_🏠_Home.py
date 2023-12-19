@@ -23,7 +23,8 @@ def run():
         pip install streamlit_bokeh3_events
         ```
         ### Code
-        - [original code](https://github.com/ash2shukla/streamlit_bokeh_events) from ash2shukla for bokeh 2
+        - You can find the code for all examples [here](https://github.com/ChristophNa/stBokeh3Demo)
+        - [original component](https://github.com/ash2shukla/streamlit_bokeh_events) from ash2shukla for bokeh 2
         - The here used [updated version](https://github.com/ChristophNa/streamlit-bokeh3-events) for bokeh 3
     """
     )
